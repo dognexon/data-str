@@ -41,3 +41,6 @@ print("hello world")
 
 # [내부](#test) 
 `#이 붙은 곳으로 이동`
+
+# img
+![이미지](./img2.jpg "이미지 삽입")
