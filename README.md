@@ -43,4 +43,4 @@ print("hello world")
 `#이 붙은 곳으로 이동`
 
 # img
-![이미지](./img2.jpg "이미지 삽입")
+![이미지](./img/img2.jpg "이미지 삽입")
