@@ -178,6 +178,7 @@ Argument(인수):
 + 세 정수의 대소 관계는 모두 13종류
 + 이 관계를 정리한 그래프를 decision tree(결정 트리)라고 합니다.
 <br>
+
 ![이미지](./img/decisiontree.png "결정트리")
 
 
